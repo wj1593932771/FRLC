@@ -1,1 +1,2 @@
-# FRLC
+# Run
+python FRLC.py
